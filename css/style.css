@@ -26,4 +26,5 @@ header h1 a {
 .paragraph-1 {
   color: 'pink';
   font-family: "roboto"
+  background-color: #000
 }
